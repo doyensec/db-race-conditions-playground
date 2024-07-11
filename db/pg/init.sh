@@ -1,0 +1,1 @@
+POSTGRES_PASSWORD=postgres; psql -U postgres  -a -f /app/scripts/seed.sql

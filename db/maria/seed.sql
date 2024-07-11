@@ -1,0 +1,8 @@
+CREATE DATABASE test001;
+
+USE test001;
+
+CREATE TABLE users(id INT PRIMARY KEY NOT NULL, name TEXT NOT NULL, balance INT NOT NULL);
+
+INSERT INTO users VALUES (1, 'alice', 100);
+INSERT INTO users VALUES (2, 'bob', 20);

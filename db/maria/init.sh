@@ -1,0 +1,1 @@
+MYSQL_ROOT_PASSWORD=password; mysql -uroot -p$MYSQL_ROOT_PASSWORD < /app/scripts/seed.sql
