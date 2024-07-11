@@ -1,6 +1,4 @@
-# db-race-conditions-playground
-
-# Description
+# Database Race Conditions - Playground
 
 This is a companion repository to the [A Race to the Bottom](https://blog.doyensec.com/2024/07/11/database-race-conditions.html) blog post. It contains sample apps and database Docker images to help you set up a playground an experiment with database transactions and concurrency control.
 
